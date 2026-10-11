@@ -24,4 +24,3 @@ The ZIP archive contains source files and a project manifest. You can import `.c
 ## External assets
 
 DM Sans, JetBrains Mono, and CodeMirror are loaded from public CDNs. For offline or production use, host these assets yourself and configure a trusted compiler service with suitable privacy, abuse, and resource controls.
-
